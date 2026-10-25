@@ -1,0 +1,10 @@
+{
+  "name": "com.qcat.fonts-pack-a",
+  "version": "1.0.0",
+  "displayName": "Fonts Pack A",
+  "description": "Shared fonts and TextMeshPro font assets",
+  "unity": "6000.0",
+  "author": {
+    "name": "Quantum Cat"
+  }
+}
