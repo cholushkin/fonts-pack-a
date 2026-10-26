@@ -11,3 +11,6 @@ Contains Sci-Fi onts, Fantasy fonts and Creative fonts.
 
 ## TODO
 - Tags support by folder name
+
+## Disclaimer
+All fonts included in this package are distributed as free fonts.
